@@ -1,0 +1,2 @@
+# RepozytoriumTest
+Dla potrzeb własnych
